@@ -17,3 +17,6 @@ div_number <- function(x,y){
 }
 
 div_number(a,b)
+
+c = a == b
+print(c)
